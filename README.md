@@ -48,8 +48,19 @@ Generate a README.md file in the project root with exactly this content:
   ├── lib/              # Supabase client setup
   └── App.jsx           # Route definitions
 
-  ## Screenshots
-  _Add screenshots after first run_
+## Screenshots
+
+### Dashboard
+![Dashboard](snapshots/[01] Dashboard.png)
+
+### Application
+![Add Interview](snapshots/[02] Application.png)
+
+### Timeline
+![Timeline](snapshots/[03] Timeline.png)
+
+### Companies
+![Stats](snapshots/[04] Companies.png)
 
   ## Roadmap
   - Google Calendar sync for scheduled interviews
